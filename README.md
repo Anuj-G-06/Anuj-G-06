@@ -6,11 +6,6 @@
 src="https://img.shields.io/badge/github-Anuj-G-06-%230177B5?style=flat&logo=github"
 />
 </a>
-<a href="https://twitter.com/Cosmideus13">
-<img
-src="https://img.shields.io/badge/twitter-Anuj-G-06-%230177B5?style=flat&logo=twitter"
-/>
-</a>
 <a href="https://www.linkedin.com/in/anuj-gupta-2844541b7/">
 <img
 src="https://img.shields.io/badge/linkedin-Anuj-%230177B5?style=flat&logo=linkedin"

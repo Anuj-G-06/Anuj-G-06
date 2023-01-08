@@ -1,16 +1,13 @@
 <div align="center">
 <h2 align="center">Social</h2>
 <p align="center">
-<a href="https://github.com/Anuj-G-06?tab=repositories">
-<img
-src="https://img.shields.io/badge/github-Anuj-G-06-%230177B5?style=flat&logo=github"
-/>
-</a>
+  
 <a href="https://www.linkedin.com/in/anuj-gupta-2844541b7/">
 <img
 src="https://img.shields.io/badge/linkedin-Anuj-%230177B5?style=flat&logo=linkedin"
 />
 </a>
+  
 </p>
 
 ---

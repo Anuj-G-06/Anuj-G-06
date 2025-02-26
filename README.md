@@ -3,10 +3,10 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/23848144/file/original-4ecaa742598cf280a7c43ffae0903e5a.gif" width="400" alt="Coding GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" alt="Coding GIF"/>
 </p>
 
-<h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast | Cloud Practitioner</h3>
+<h3 align="center">🚀 Full Stack Data Scientist & ML Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/anuj-g-06">
@@ -18,14 +18,13 @@
 
 ### ✨ About Me
 
-- 🎓 **B.E. in Electronics and Telecommunication**, University of Mumbai (CGPA: 8.79/10)  
-  📚 Specialization in **Artificial Intelligence & Machine Learning** (CGPA: 9.52/10)  
-- 💼 Currently working as a **Data Scientist** at **Equifax**, contributing to $5.6M in revenue through predictive insights and cloud transformation.  
-- 💡 Ex-Software Developer at **Quantiphi**, innovating **GANs** for cancer detection and building scalable ML pipelines.  
+- 🎓 Specialization in **Artificial Intelligence & Machine Learning**
+- 💼 Currently working as a **Data Scientist** at **Equifax**, contributing through predictive insights and cloud transformation.
+- 💡 Ex-Software Developer at **Quantiphi**, innovated **GANs** for cancer detection and built scalable ML pipelines.
 - 🌱 Currently diving deeper into **Cloud Technologies (GCP & AWS)** and **Reinforcement Learning**.
-- 💬 Ask me about **Machine Learning, Data Science, GCP, Python** or **Cloud Deployments**!
+- 💬 Ask me about **Machine Learning, GCP** or **Cloud Deployments**!
 - 📫 **Reach me at:** anuj.1306.gupta@gmail.com
-- 💡 *"Let's compound 1% every day."*
+- 💡 _"Let's compound 1% every day."_
 
 ---
 
@@ -60,6 +59,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuj-g-06&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-g-06&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
@@ -71,9 +73,9 @@
 
 ### 🌟 Achievements & Certifications
 
-- 🏆 **Spotlight Awards** at Equifax for **GCP Transformation** and **Exposure Analysis**.  
-- 🎖️ **AWS Certified Solutions Architect - Associate** *(Dec 2022)*  
-- 🌩️ **Google Cloud Certified Associate Cloud Engineer** *(Dec 2022)*  
+- 🏆 **Spotlight Awards** at Equifax for **GCP Transformation** and **Exposure Analysis**.
+- 🎖️ **AWS Certified Solutions Architect - Associate**
+- 🌩️ **Google Cloud Certified Associate Cloud Engineer**
 - ⚡ Finalist in **TiE Global Entrepreneurial Hackathon** among 650 international teams for real-time skin burn classification with 83% accuracy.
 
 ---
@@ -89,7 +91,7 @@
 
 ### ✨ Let's Connect and Collaborate!
 
-💬 *Open to collaborations on Data Science, AI, ML, and Cloud Computing projects.* 🚀
+💬 _Open to collaborations on Data Science, AI, ML, and Cloud Computing projects._ 🚀
 
 ---
 

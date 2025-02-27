@@ -21,8 +21,8 @@
 - 🎓 Specialization in **Artificial Intelligence & Machine Learning**
 - 💼 Currently working as a **Data Scientist** at **Equifax**, contributing through predictive insights and cloud transformation.
 - 💡 Ex-Software Developer at **Quantiphi**, innovated **GANs** for cancer detection and built scalable ML pipelines.
-- 🌱 Currently diving deeper into **Cloud Technologies (GCP & AWS)** and **Reinforcement Learning**.
-- 💬 Ask me about **Machine Learning, GCP** or **Cloud Deployments**!
+- 🌱 Currently diving deeper into **Cloud Technologies (GCP & AWS)** and **Large Language Models**.
+- 💬 Ask me about **Machine Learning** or **Cloud Deployments**!
 - 📫 **Reach me at:** anuj.1306.gupta@gmail.com
 - 💡 _"Let's compound 1% every day."_
 
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuj-gupta-2844541b7/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-Anuj-%230177B5?style=flat&logo=linkedin"/>
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png.original.png"  width="40"/>
   </a>
 </p>
 

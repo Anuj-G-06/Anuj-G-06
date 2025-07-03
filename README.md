@@ -31,7 +31,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anuj-gupta-2844541b7/" target="_blank">
+  <a href="https://www.linkedin.com/in/anuj-gupta-2k/" target="_blank">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png.original.png"  width="40"/>
   </a>
 </p>

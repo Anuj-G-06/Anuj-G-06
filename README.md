@@ -1,4 +1,5 @@
 ### 👋 Hello, I'm Anuj Gupta
+> 🔍 **Actively seeking Summer 2026 internships** in Machine Learning, Data Science, or Software Development. Open to roles in research, applied AI, or ML infrastructure.
 
 ---
 
@@ -110,7 +111,8 @@
 
 ### 🤝 Let’s Collaborate
 
-💬 Open to freelance, research, or innovation-driven collaborations in **Cloud AI**, **Healthcare ML**, **FinTech**, and **Generative AI**.
+📬 **Open to collaborate or intern (Summer 2026)**  
+If you're working on impactful AI/ML problems in industry or research — let's talk!
 
 ---
 

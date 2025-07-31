@@ -1,4 +1,4 @@
-### Hi there, I'm Anuj Gupta! 👋
+### 👋 Hello, I'm Anuj Gupta
 
 ---
 
@@ -6,95 +6,114 @@
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" alt="Coding GIF"/>
 </p>
 
-<h3 align="center">🚀 Full Stack Data Scientist & ML Engineer</h3>
+<h3 align="center">⚙️ ML Engineer | Full-Stack Data Scientist | Cloud-Native AI Developer</h3>
 
 <p align="center">
   <a href="https://github.com/anuj-g-06">
-    <img src="https://komarev.com/ghpvc/?username=anuj-g-06&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-g-06" />
+    <img src="https://komarev.com/ghpvc/?username=anuj-g-06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   </a>
 </p>
 
 ---
 
-### ✨ About Me
+### 🧠 About Me
 
-- 🎓 Specialization in **Artificial Intelligence & Machine Learning**
-- 💼 Currently working as a **Data Scientist** at **Equifax**, contributing through predictive insights and cloud transformation.
-- 💡 Ex-Software Developer at **Quantiphi**, innovated **GANs** for cancer detection and built scalable ML pipelines.
-- 🌱 Currently diving deeper into **Cloud Technologies (GCP & AWS)** and **Large Language Models**.
-- 💬 Ask me about **Machine Learning** or **Cloud Deployments**!
-- 📫 **Reach me at:** anuj.1306.gupta@gmail.com
-- 💡 _"Let's compound 1% every day."_
+- 🎓 **Graduate Student** @ **Carnegie Mellon University, SCS** — Focused on Generative AI, Agentic Systems, and Scalable ML Infrastructure.
+- 💼 **Ex-Data Scientist** @ **Equifax** — Delivered ML solutions influencing **$45.5B** microfinance portfolio decisions.
+- ⚙️ **Ex-AI Software Developer** @ **Quantiphi** — Engineered **GAN pipelines** for early-stage cancer detection on **GCP**.
+- 🧠 Specialization: **Machine Learning | Cloud AI | Applied Deep Learning | Generative Models**
+- 💬 Topics I love: **Healthcare AI**, **FinTech**, **Large Language Models**, **MLOps**
+- 📫 Email me at **anujmg@cmu.edu**
+- 💡 Motto: *Compound 1% every day.*
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuj-gupta-2k/" target="_blank">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png.original.png"  width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Anuj%20Gupta-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:anujmg@cmu.edu">
+    <img src="https://img.shields.io/badge/Email-anujmg@cmu.edu-red?style=flat&logo=gmail" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Technical Toolbox
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Experience Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuj-g-06&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+- 🚀 **Equifax (Data Scientist)**  
+  Built real-time credit risk engines (XGBoost, Python, GCP), improving risk stratification by **87.6%** and migrating legacy infrastructure to GCP, saving **40%** in costs.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-g-06&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+- 🧬 **Quantiphi (ML Developer)**  
+  Developed GANs in PyTorch for synthetic cancer image generation, boosting diagnostic accuracy by **45%**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-g-06&theme=radical" alt="GitHub Streak"/>
-</p>
+- 🛠️ **Expify (Founding Engineer)**  
+  Built full-stack education platform (Next.js, Razorpay), increasing user conversion by **85%** and deployed AI-based psychometric clustering models (Word2Vec).
 
----
-
-### 🌟 Achievements & Certifications
-
-- 🏆 **Spotlight Awards** at Equifax for **GCP Transformation** and **Exposure Analysis**.
-- 🎖️ **AWS Certified Solutions Architect - Associate**
-- 🌩️ **Google Cloud Certified Associate Cloud Engineer**
-- ⚡ Finalist in **TiE Global Entrepreneurial Hackathon** among 650 international teams for real-time skin burn classification with 83% accuracy.
+- 📈 **Nippon Life AMC (Data Analyst Intern)**  
+  Applied NLP models (BERT) for sentiment tagging of stock news, reaching **83%** accuracy and automating 95% of manual ETL.
 
 ---
 
-### 💡 Featured Projects
+### 📌 Featured Projects
 
-- 🔗 **Parallel Matrix Factorisation for Recommender Systems**: Improved recommender system efficiency by 30% using distributed computing on Databricks.
-- ❤️ **Real-time Fall and Arrhythmia Detection**: Developed LSTM-based PyTorch system for elderly care with 90%+ classification accuracy.
-- 💹 **Real Time Adaptive Asset Allocation**: Achieved 20-30% annual returns via RL models optimizing stock allocations.
-- 📈 **Nifty 50 Stock Price Prediction**: Built ML models predicting daily Nifty 50 closing prices with enhanced algorithmic trading profitability.
+- 🔄 **Distributed Recommender Systems**  
+  Matrix factorization with Spark on Databricks, yielding a **30%** speed-up over traditional collaborative filtering models.
+
+- ❤️ **Edge ML Health Monitoring**  
+  LSTM-based real-time fall + arrhythmia detection system with >90% accuracy. Built on PyTorch with edge-device deployment scope.
+
+- 📊 **RL-Based Portfolio Optimizer**  
+  Reinforcement learning agents trained for adaptive stock allocation; backtested **20–30% annual returns** over traditional strategies.
+
+- 📈 **Nifty 50 Time Series Predictor**  
+  Regression ensemble models for Nifty 50 forecasting, aiding daily trading signals.
+
+- 🧴 [**Skin Burn Classifier**](https://anuj-m-gupta.vercel.app/work/skin-burn-detection-and-classification)  
+  CNN-based classification model for burn severity (83% accuracy); **Top Finalist** in TiE Global Hackathon (650+ teams).
+
+- 📞 [**Churn Predictor (Telco)**](https://anuj-m-gupta.vercel.app/work/Telecommunication-Customer-Churn-Prediction)  
+  End-to-end ML workflow for churn prediction with explainability dashboards (SHAP, LIME).
+
+- 🧠 [**GAN Image Generator**](https://anuj-m-gupta.vercel.app/work/gan-image-generation)  
+  Trained custom GANs to generate synthetic images from noise vectors; explored latent vector interpolation and conditional GANs.
 
 ---
 
-### ✨ Let's Connect and Collaborate!
+### 🏅 Achievements & Certifications
 
-💬 _Open to collaborations on Data Science, AI, ML, and Cloud Computing projects._ 🚀
+- 🏆 **Spotlight Awards @ Equifax** – for GCP analytics platform transformation and exposure modeling.
+- 🌩️ **Google Cloud Certified – Associate Cloud Engineer**
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🧠 **Top 5 Finalist – TiE Global Hackathon**: Burn severity classifier among 650 international teams.
+
+---
+
+### 🤝 Let’s Collaborate
+
+💬 Open to freelance, research, or innovation-driven collaborations in **Cloud AI**, **Healthcare ML**, **FinTech**, and **Generative AI**.
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>

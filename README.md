@@ -23,9 +23,8 @@
 - 💼 **Ex-Data Scientist** @ **Equifax** — Delivered ML solutions influencing **$45.5B** microfinance portfolio decisions.
 - ⚙️ **Ex-AI Software Developer** @ **Quantiphi** — Engineered **GAN pipelines** for early-stage cancer detection on **GCP**.
 - 🧠 Specialization: **Machine Learning | Cloud AI | Applied Deep Learning | Generative Models**
-- 💬 Topics I love: **Healthcare AI**, **FinTech**, **Large Language Models**, **MLOps**
+- 💬 Topics I love: **Deep-Tech**, **Healthcare AI**, **FinTech**, **Large Language Models**, **MLOps**
 - 📫 Email me at **anujmg@cmu.edu**
-- 💡 Motto: *Compound 1% every day.*
 
 ---
 

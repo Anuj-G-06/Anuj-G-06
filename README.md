@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Anuj Gupta
+### 👋 [Hello, I'm Anuj Gupta](https://anuj-m-gupta.vercel.app/)
 > 🔍 **Actively seeking Summer 2026 internships** in Machine Learning, Data Science, or Software Development. Open to roles in research, applied AI, or ML infrastructure.
 
 ---

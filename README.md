@@ -1,5 +1,5 @@
 ### 👋 [Hello, I'm Anuj Gupta](https://anuj-m-gupta.vercel.app/)
-> 🔍 **Actively seeking Summer 2026 internships** in Machine Learning, Data Science, or Software Development. Open to roles in research, applied AI, or ML infrastructure.
+> 🔍 **Actively seeking Summer 2026 internships** in Data Science, AIML, and Research.
 
 ---
 
@@ -17,14 +17,76 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 My Experience
 
-- 🎓 **Graduate Student** @ **Carnegie Mellon University, SCS** — Focused on Generative AI, Agentic Systems, and Scalable ML Infrastructure.
-- 💼 **Ex-Data Scientist** @ **Equifax** — Delivered ML solutions influencing **$45.5B** microfinance portfolio decisions.
-- ⚙️ **Ex-AI Software Developer** @ **Quantiphi** — Engineered **GAN pipelines** for early-stage cancer detection on **GCP**.
-- 🧠 Specialization: **Machine Learning | Cloud AI | Applied Deep Learning | Generative Models**
-- 💬 Topics I love: **Deep-Tech**, **Healthcare AI**, **FinTech**, **Large Language Models**, **MLOps**
-- 📫 Email me at **anujmg@cmu.edu**
+```mermaid
+flowchart LR
+    %% Define rounded card style
+    classDef card fill:#f2f2f2,stroke:#333,stroke-width:1px,rx:15,ry:15,font-family:Arial;
+    classDef red fill:#F02B28,stroke:#000,stroke-width:1px,rx:15,ry:15,color:#fff,font-family:Arial;
+    classDef blue fill:#05014a,stroke:#000,stroke-width:1px,rx:15,ry:15,color:#fff,font-family:Arial;
+    classDef green fill:#12A04E,stroke:#000,stroke-width:1px,rx:15,ry:15,color:#003366,font-family:Arial;
+    classDef orange fill:#B33B00,stroke:#000,stroke-width:1px,rx:15,ry:15,color:#fff,font-family:Arial;
+
+    %% Nodes with org and position
+    A["<div style='font-size:18px;font-weight:bold;'>Nippon Life AMC</div><div style='font-size:15px;'>AI Research Intern</div>"] --> 
+    B["<div style='font-size:18px;font-weight:bold;'>Expify</div><div style='font-size:15px;'>Founding Software Engineer</div>"] --> 
+    C["<div style='font-size:18px;font-weight:bold;'>Quantiphi</div><div style='font-size:15px;'>Software Developer</div>"] --> 
+    D["<div style='font-size:18px;font-weight:bold;'>Equifax</div><div style='font-size:15px;'>Data Scientist</div>"]
+
+    %% Apply styles
+    class A red;
+    class B blue;
+    class C green;
+    class D orange;
+
+```
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+  <!-- Cloud & Platforms -->
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+  <!-- Big Data & Streaming -->
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white" />
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- AI / ML / Data Science -->
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+  <!-- Tools & DevOps -->
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" />
+</p>
 
 ---
 
@@ -38,39 +100,6 @@
     <img src="https://img.shields.io/badge/Email-anujmg@cmu.edu-red?style=flat&logo=gmail" />
   </a>
 </p>
-
----
-
-### 🛠️ Technical Toolbox
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-</p>
-
----
-
-### 💼 Experience Highlights
-
-- 🚀 **Equifax (Data Scientist)**  
-  Built real-time credit risk engines (XGBoost, Python, GCP), improving risk stratification by **87.6%** and migrating legacy infrastructure to GCP, saving **40%** in costs.
-
-- 🧬 **Quantiphi (ML Developer)**  
-  Developed GANs in PyTorch for synthetic cancer image generation, boosting diagnostic accuracy by **45%**.
-
-- 🛠️ **Expify (Founding Engineer)**  
-  Built full-stack education platform (Next.js, Razorpay), increasing user conversion by **85%** and deployed AI-based psychometric clustering models (Word2Vec).
-
-- 📈 **Nippon Life AMC (Data Analyst Intern)**  
-  Applied NLP models (BERT) for sentiment tagging of stock news, reaching **83%** accuracy and automating 95% of manual ETL.
 
 ---
 

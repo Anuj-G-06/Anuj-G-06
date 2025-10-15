@@ -17,33 +17,6 @@
 
 ---
 
-### 🧠 My Experience
-
-```mermaid
-flowchart LR
-    %% Define rounded card style
-    classDef card fill:#f2f2f2,stroke:#333,stroke-width:1px,rx:15,ry:15,font-family:Arial;
-    classDef red fill:#F02B28,stroke:#000,stroke-width:1px,rx:15,ry:15,color:#fff,font-family:Arial;
-    classDef blue fill:#05014a,stroke:#000,stroke-width:1px,rx:15,ry:15,color:#fff,font-family:Arial;
-    classDef green fill:#12A04E,stroke:#000,stroke-width:1px,rx:15,ry:15,color:#003366,font-family:Arial;
-    classDef orange fill:#B33B00,stroke:#000,stroke-width:1px,rx:15,ry:15,color:#fff,font-family:Arial;
-
-    %% Nodes with org and position
-    A["<div style='font-size:18px;font-weight:bold;'>Nippon Life AMC</div><div style='font-size:15px;'>AI Research Intern</div>"] --> 
-    B["<div style='font-size:18px;font-weight:bold;'>Expify</div><div style='font-size:15px;'>Founding Software Engineer</div>"] --> 
-    C["<div style='font-size:18px;font-weight:bold;'>Quantiphi</div><div style='font-size:15px;'>Software Developer</div>"] --> 
-    D["<div style='font-size:18px;font-weight:bold;'>Equifax</div><div style='font-size:15px;'>Data Scientist</div>"]
-
-    %% Apply styles
-    class A red;
-    class B blue;
-    class C green;
-    class D orange;
-
-```
-
----
-
 # 💻 Tech Stack
 
 <p align="center">

@@ -69,8 +69,8 @@
   <a href="https://www.linkedin.com/in/anuj-gupta-2k/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Anuj%20Gupta-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:anujmg@cmu.edu">
-    <img src="https://img.shields.io/badge/Email-anujmg@cmu.edu-red?style=flat&logo=gmail" />
+  <a href="mailto:anujg2@cs.cmu.edu">
+    <img src="https://img.shields.io/badge/Email-anujg2@cs.cmu.edu-red?style=flat&logo=gmail" />
   </a>
 </p>
 

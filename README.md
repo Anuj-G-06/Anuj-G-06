@@ -1,7 +1,7 @@
 ### Hi, I'm [Anuj Gupta](https://cs.cmu.edu/~anujg2) <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"/>
 
 <p align="center">
-  <img src="https://wsrv.nl/?url=user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif&w=400&h=400&fit=cover&mask=circle&n=-1&output=gif" width="200" alt="Coding GIF"/>
+  <img src="https://wsrv.nl/?url=user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif&w=400&h=400&fit=cover&mask=circle&n=-1&output=webp" width="200" alt="Coding GIF"/>
 </p>
 
 **Founder, Researcher & ML Engineer** — MCDS @ Carnegie Mellon University SCS (Aug 2025 – Dec 2026)

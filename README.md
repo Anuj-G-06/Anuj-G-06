@@ -1,20 +1,19 @@
-### Hi, I'm [Anuj Gupta](https://cs.cmu.edu/~anujg2) <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"/>
+### Hi, I'm [Anuj Gupta](https://anuj-m-gupta.vercel.app) <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"/>
 
 <p align="center">
   <img src="https://wsrv.nl/?url=user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif&w=400&h=400&fit=cover&mask=circle&n=-1&output=webp" width="200" alt="Coding GIF"/>
 </p>
 
-**Founder, Researcher & ML Engineer** — MCDS @ Carnegie Mellon University SCS (Aug 2025 – Dec 2026)
+**Researcher & Developer** · MCDS @ Carnegie Mellon University SCS (Aug 2025 – Dec 2026)
 
-I build applied ML systems across LLMs, agentic pipelines, RAG, and computer vision, from research prototyping to production deployments on GCP and AWS. Currently a Senior Data Scientist Intern at Capital One, researching LLM benchmarks at CMU's TEEL Lab, and building an AI-powered video generation startup at the Swartz Center for Entrepreneurship.
+I build applied ML systems across LLMs, agentic pipelines, RAG and computer vision, from research prototypes to production on GCP and AWS. Right now I'm a graduate researcher at CMU's TEEL Lab and a technical contributor at [Aspection Labs](https://aspectionlabs.com). Over summer 2026 I was a Senior Data Scientist Intern at Capital One.
 
 ---
 
 ### What I'm Working On
 
-- **Agentic AML Systems** : LangGraph agents automating suspicious-activity investigations at [Capital One](https://www.capitalone.com/)
-- **LLM Benchmarking Research** : Semantic annotation benchmarks across finance, healthcare, news, and law at [TEEL Lab](https://www.cmu.edu/teel/), CMU
-- **AI Video Generation Startup** : Building at the [Swartz Center for Entrepreneurship](https://www.cmu.edu/swartz-center-for-entrepreneurship/), CMU
+- **Language models for learning and education** : research at [TEEL Lab](https://www.cmu.edu/teel/), CMU
+- **Video generation research and applied AI** : technical contributor at [Aspection Labs](https://aspectionlabs.com)
 
 ---
 
@@ -22,8 +21,10 @@ I build applied ML systems across LLMs, agentic pipelines, RAG, and computer vis
 
 | Role | Organization | When |
 |------|-------------|------|
-| Senior Data Scientist Intern | **Capital One** | Jun 2026 – Present |
-| Graduate Researcher, TEEL Lab | **Carnegie Mellon University SCS** | Aug 2025 – Present |
+| Technical Contributor | **Aspection Labs** | Sep 2026 – Present |
+| Graduate Researcher, TEEL Lab | **Carnegie Mellon University SCS** | Aug 2026 – Present |
+| Senior Data Scientist Intern | **Capital One** | Jun 2026 – Aug 2026 |
+| Graduate Researcher, TEEL Lab | **Carnegie Mellon University SCS** | Aug 2025 – May 2026 |
 | Data Scientist | **Equifax** | Aug 2023 – Jul 2025 |
 | Software Developer, Healthcare AI | **Quantiphi** | Aug 2022 – Jul 2023 |
 | Founding Software Engineer | **Expify** | Jul 2021 – Jul 2022 |
@@ -35,9 +36,9 @@ Selected outcomes: cut AML case resolution time 98% (70 min → 2 min per case);
 
 ### Research
 
-- **Semantic Span Annotation (SSA)** — accepted to **ACL 2026** (advisor: Dr. Jaromir Savelka). Unified span-annotation benchmark over 7 LLMs across 5 datasets, surfacing two distinct performance regimes: label definitions lifted F1 from 8.8% to 57.5% on ontology-heavy tasks but *hurt* pattern-based tasks like PII detection.
-- **RolloutKV** (supervisor: Dr. Lei Li) — profiled KV-cache rollout strategies for veRL GRPO post-training of Qwen2.5-Coder-3B on MBPP; cut training wall-clock from 12k to 9k seconds and raised rollout throughput ~1.56x.
-- **RedViz** (advisor: Adam Perer) — unified LLM red-teaming framework combining attention-map interpretability with realtime multilingual harm detection.
+- **Semantic Span Annotation (SSA)**: [published at **ACL 2026**](https://aclanthology.org/2026.acl-srw.39/) (advisor: Dr. Jaromir Savelka). Unified span-annotation benchmark over 7 LLMs across 5 datasets, surfacing two distinct performance regimes: label definitions lifted F1 from 8.8% to 57.5% on ontology-heavy tasks but *hurt* pattern-based tasks like PII detection.
+- **RolloutKV** (supervisor: Dr. Lei Li): profiled KV-cache rollout strategies for veRL GRPO post-training of Qwen2.5-Coder-3B on MBPP; cut training wall-clock from 12k to 9k seconds and raised rollout throughput ~1.56x.
+- **RedViz** (advisor: Adam Perer): unified LLM red-teaming framework combining attention-map interpretability with realtime multilingual harm detection.
 
 ---
 
@@ -130,7 +131,7 @@ Selected outcomes: cut AML case resolution time 98% (70 min → 2 min per case);
 ### Connect
 
 <p align="center">
-  <a href="https://cs.cmu.edu/~anujg2"><img src="https://img.shields.io/badge/Portfolio-cs.cmu.edu/~anujg2-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://anuj-m-gupta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-anuj--m--gupta.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio: anuj-m-gupta.vercel.app" /></a>
   <a href="https://www.linkedin.com/in/anuj-gupta-2k/"><img src="https://img.shields.io/badge/LinkedIn-Anuj%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anujg2@cs.cmu.edu"><img src="https://img.shields.io/badge/Email-anujg2@cs.cmu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://medium.com/@anuj.1306.gupta"><img src="https://img.shields.io/badge/Medium-@anuj.1306.gupta-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>

@@ -15,6 +15,13 @@ I build applied ML systems across LLMs, agentic pipelines, RAG and computer visi
 - **Language models for learning and education** : research at [TEEL Lab](https://www.cmu.edu/teel/), CMU
 - **Video generation research and applied AI** : technical contributor at [Aspection Labs](https://aspectionlabs.com)
 
+<a href="https://anuj-m-gupta.vercel.app/#work-timeline">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://anuj-m-gupta.vercel.app/embed/work-timeline/dark.svg">
+    <img alt="Where my time goes: lines I committed each week over the last 12 months, by domain" src="https://anuj-m-gupta.vercel.app/embed/work-timeline/light.svg" width="840">
+  </picture>
+</a>
+
 ---
 
 ### Experience
